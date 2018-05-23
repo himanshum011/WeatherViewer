@@ -1,0 +1,36 @@
+
+.container-fluid{
+	background-color: #161616;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    z-index: -1
+
+}
+
+.tempunit{
+  
+  margin-left: 10px;
+}
+
+.tempunit:hover{
+	color: grey;
+}
+
+.data{
+font-family: 'Lato', sans-serif;
+    text-align: center;
+    color:#FC1F75;
+    font-size: 70px;
+    margin-top: 70px;
+}
+
+.main_top_page{
+	
+   font-family: "Seaweed Script";
+  font-size:85pt;
+  text-align:center;
+  padding-top:20px;
+  color:#EBECF1;
+}
